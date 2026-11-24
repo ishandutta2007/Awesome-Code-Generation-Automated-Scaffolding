@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Code-Generation-Automated-Scaffolding" alt="License" /></a>
@@ -74,9 +74,9 @@ The table below catalogs premier hosted AI coding assistants, autonomous agents,
 
 ## 🔓 Open-Source GitHub Projects
 
-The table below ranks notable open-source code generation, autonomous coding assistants, and automated scaffolding projects. Ranked in descending order by **GitHub Star Counts** (live social badges link directly to each project's Stargazers directory).
+The table below ranks notable open-source code generation, autonomous coding assistants, and automated scaffolding projects. Ranked in descending order by **GitHub Stars_Counts** (live social badges link directly to each project's Stargazers directory).
 
-| 📦 Repository & Name | ⭐ Star Count | 🛠️ Category / Focus | 📝 Description |
+| 📦 Repository & Name | ⭐ Stars_Count | 🛠️ Category / Focus | 📝 Description |
 | :--- | :--- | :--- | :--- |
 | **[sst/opencode](https://github.com/sst/opencode)** | [![Stars](https://img.shields.io/github/stars/sst/opencode?style=social&color=white)](https://github.com/sst/opencode/stargazers) | 🤖 Autonomous CLI Coding Agent | Terminal-first autonomous coding agent built for rapid software development, file refactoring, and automated deployment scripting. |
 | **[shadcn-ui/ui](https://github.com/shadcn-ui/ui)** | [![Stars](https://img.shields.io/github/stars/shadcn-ui/ui?style=social&color=white)](https://github.com/shadcn-ui/ui/stargazers) | 🎨 Component & App Scaffolding CLI | Groundbreaking CLI scaffolder that copies customizable, accessible Tailwind CSS + Radix UI components directly into full-stack codebases. |
@@ -107,8 +107,8 @@ Contributions to this ecosystem are warmly welcomed! Please follow these simple 
 
 1. 🍴 **Fork the Repository** on GitHub.
 2. 🌿 **Create a Feature Branch**: `git checkout -b feature/add-new-tool`.
-3. 📝 **Add Your Entry**: Ensure entries include factual descriptions, verified starting pricing/free tier limits for SaaS, or proper star badges linking to stargazers for open-source projects.
-4. ✅ **Ensure Proper Categorization**: Match the sorted structure (descending valuation for SaaS, descending stars for Open-Source).
+3. 📝 **Add Your Entry**: Ensure entries include factual descriptions, verified starting pricing/free tier limits for SaaS, or proper Stars_Badges linking to stargazers for open-source projects.
+4. ✅ **Ensure Proper Categorization**: Match the sorted structure (descending valuation for SaaS, descending GitHub_Stars for Open-Source).
 5. 🚀 **Submit a Pull Request**: Provide a concise summary of why the tool should be added.
 
 ---
